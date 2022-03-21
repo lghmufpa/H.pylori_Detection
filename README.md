@@ -1,7 +1,13 @@
 # H. pylori Detection Database
 **Reposiory of the project: Deep Learning for Helicobater Pylori Detection in Histopathological Tissue . This repository contains the dataset and the scripts used in the project**.
 
+## Members:
+- Leonardo Miranda de Brito (Author)
+- PhD. Gilderlanio Santana de Araujo (Supervisor)
+- PhD. Andrea Kely Campos Ribeiro-dos-Santos (Collaborator)
+- PhD. Samia Demachki (Collaborator)
 
+## Structure:
 This repository presents the following folder structure:
 - **Datasets:**
   - **Unseen**: Images that were not analysed by an pathologist, therefore, couldn't be labeled.
@@ -24,8 +30,4 @@ This repository presents the following folder structure:
 
 - **Scripts:** Contains the scripts used to build the dataset and it's descriptive graphics.
 
-### Members:
-- Leonardo Miranda de Brito (Author)
-- PhD. Gilderlanio Santana de Araujo (Supervisor)
-- PhD. Andrea Kely Campos Ribeiro-dos-Santos (Collaborator)
-- PhD. Samia Demachki (Collaborator)
+
