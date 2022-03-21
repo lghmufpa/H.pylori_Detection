@@ -23,3 +23,9 @@ This repository presents the following folder structure:
 - **Graphics:** Contains the grpahs that describe the dataset content.
 
 - **Scripts:** Contains the scripts used to build the dataset and it's descriptive graphics.
+
+### Members:
+- Leonardo Miranda de Brito (Author)
+- PhD. Gilderlanio Santana de Araujo (Supervisor)
+- PhD. Andrea Kely Campos Ribeiro-dos-Santos (Collaborator)
+- PhD. Samia Demachki (Collaborator)
